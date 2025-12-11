@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Skip to content
 Navigation Menu
 Aditi3005
@@ -23,6 +24,8 @@ Create index.js
 Code
 
 Blame
+=======
+>>>>>>> 7e196faae924722c17a3d97ff11901109f69ac25
 // index.js
 
 // Import required modules
