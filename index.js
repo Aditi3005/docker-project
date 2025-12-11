@@ -26,21 +26,7 @@ Code
 Blame
 =======
 >>>>>>> 7e196faae924722c17a3d97ff11901109f69ac25
-// index.js
 
-// Import required modules
-const express = require('express');
-const bodyParser = require('body-parser');
-
-// Create an instance of Express
-const app = express();
-
-// Middleware to parse incoming JSON requests
-app.use(bodyParser.json());
-
-// Define a simple route
-app.get('/', (req, res) => {
-    res.send(`
         <!DOCTYPE html>
         <html lang="en">
         <head>
